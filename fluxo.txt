@@ -1,0 +1,17 @@
+-- Boas vindas e aprensentação do bot
+-- cadastro ou visualização do
+-- cadastro
+-- nome
+-- idade
+-- sexo
+-- unidade de cadastro
+-- tipo de câncer
+-- estagio
+-- sintomas
+
+-- confirmar dados
+-- encerrar com link do site
+
+vai pro banco de dados
+
+

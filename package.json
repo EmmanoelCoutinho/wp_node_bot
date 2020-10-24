@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmanoelCoutinho/wp_node_bot.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmanoelCoutinho/wp_node_bot/issues"
+  },
+  "homepage": "https://github.com/EmmanoelCoutinho/wp_node_bot#readme",
   "dependencies": {
-    "sulla": "^2.3.14"
+    "venom-bot": "^2.0.18"
   }
 }
