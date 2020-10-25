@@ -1,9 +1,29 @@
 var banco = {
-    '559191561752@c.us':{
-        stage:0
+    '558198852688@c.us':{
+        stage:0,
+        item:[],
     },
-    user2:{
-        stage:0
+    '559191561752@c.us':{
+        stage:0,
+        item: {
+            name:"",
+            gen:"",
+            age:"",
+            city:"",
+            sintomas:"",
+            tumor:"",
+            stage:"",
+            cid:"",
+            //local diag
+            place:"",
+            //data diagnostico
+            data:"",
+            //data tratamento
+            dataT:"",
+            etnia:"",
+            //centro de tratamento
+            cte:"",
+        },
     }
 };
 

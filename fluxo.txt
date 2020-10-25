@@ -1,17 +1,26 @@
--- Boas vindas e aprensentação do bot
--- cadastro ou visualização do
--- cadastro
--- nome
--- idade
--- sexo
--- unidade de cadastro
--- tipo de câncer
--- estagio
--- sintomas
 
--- confirmar dados
--- encerrar com link do site
-
-vai pro banco de dados
+PARA ENTENDER MELHOR A FLUXO DE INFORMAÇÃO DO BOT, USE O stages.js COMO
+REFERÊNCIA:
 
 
+CADA ARQUIVO NOVO ACESSADO ESTÁ EM ORDEM LÁ
+
+ATENTE-SE REQUIRE, VEJA QUAL ARQUIVO FOI CHAMADO.
+
+
+-- welcome 1- Inserir novos dados 2-Atualizar casos 3-Visualizar casos
+
+-- select nome em string
+
+-- name confirmação 1-sim 2-não 3-resetar
+
+-- select2 genero 1- F 2- M 3-P Else- generalizado
+
+-- gen confir genero 1-s 2-n 3-resetar
+
+-- select 3 idade em string "6 anos"
+
+--
+
+user master 559191561752@c.us
+            5581998852688@c.us
