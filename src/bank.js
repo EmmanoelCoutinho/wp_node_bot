@@ -1,5 +1,6 @@
 var banco = {
-    '558198852688@c.us':{
+    //insirir numero
+    user:{
         stage:0,
         item:[],
     },
